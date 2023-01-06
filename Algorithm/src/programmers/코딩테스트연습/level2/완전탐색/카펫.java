@@ -1,4 +1,4 @@
-package programmers.코딩테스트연습.level1.완전탐색;
+package programmers.코딩테스트연습.level2.완전탐색;
 
 public class 카펫 {
 /*
