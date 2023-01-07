@@ -8,9 +8,9 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException{
+public class 강의실배정11000 {
+/*
+public static void main(String[] args) throws IOException{
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());		
@@ -38,22 +38,5 @@ public class Main {
 		
 		System.out.println(q.size());
 	}
-	
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
