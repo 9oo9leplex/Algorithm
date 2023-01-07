@@ -1,14 +1,8 @@
 package baekjoon.G5.정렬;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.StringTokenizer;
-
-public class Main {
-
-	public static void main(String[] args) throws IOException{
+public class 선긋기 {
+/*
+public static void main(String[] args) throws IOException{
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());		
@@ -27,37 +21,20 @@ public class Main {
 		});
 		
 		int start = arr[0][0], end = arr[0][1];
-		int sum = end - start;
+		int sum = 0;
 		for(int i=1;i<n;i++) {
 			
-			if(start <= arr[i][0] && end >= arr[i][1] ) continue;
-			else if(arr[i][0] < end) sum += arr[i][1] - end;
-			else sum += arr[i][1] - arr[i][0];
-			
-			start = arr[i][0];
-			end = arr[i][1];
+			if(end >= arr[i][0] ) end = Math.max(end, arr[i][1]);
+			else {
+				sum += end - start;
+				start = arr[i][0];
+				end = arr[i][1];
+			}
 		}
 		
-//		sum += end - start;
+		sum += end - start;
 		
 		System.out.println(sum);
 	}
-	
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
