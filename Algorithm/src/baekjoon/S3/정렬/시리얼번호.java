@@ -1,13 +1,13 @@
-package baekjoon.G5.정렬;
+package baekjoon.S3.정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 
-public class Main {
-
-	static class Node implements Comparable<Node>{
+public class 시리얼번호 {
+/*
+static class Node implements Comparable<Node>{
 		String str;
 		int val;
 		
@@ -54,22 +54,5 @@ public class Main {
 		while(!pq.isEmpty()) sb.append(pq.poll().str).append("\n");
 		System.out.println(sb);
 	}
-	
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
