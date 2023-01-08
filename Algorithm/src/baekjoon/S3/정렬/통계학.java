@@ -1,4 +1,4 @@
-package baekjoon.G5.정렬;
+package baekjoon.S3.정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,9 +9,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException{
+public class 통계학 {
+/*
+public static void main(String[] args) throws IOException{
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());		
@@ -49,22 +49,5 @@ public class Main {
 		
 		System.out.println(sb);
 	}
-	
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
