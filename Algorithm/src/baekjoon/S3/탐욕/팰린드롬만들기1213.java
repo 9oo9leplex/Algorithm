@@ -1,12 +1,12 @@
-package baekjoon;
+package baekjoon.S3.탐욕;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException{
+public class 팰린드롬만들기1213 {
+/*
+public static void main(String[] args) throws IOException{
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
@@ -40,20 +40,5 @@ public class Main {
 		}
 		System.out.println(sb);
 	}
-	
-	
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
