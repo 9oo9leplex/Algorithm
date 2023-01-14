@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.S4.탐욕;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,9 +8,9 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException{
+public class 로프2217 {
+/*
+public static void main(String[] args) throws IOException{
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
@@ -26,20 +26,5 @@ public class Main {
 
 		System.out.println(pq.poll());
 	}
-	
-	
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
