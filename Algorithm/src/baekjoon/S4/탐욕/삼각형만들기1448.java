@@ -1,13 +1,13 @@
-package baekjoon;
+package baekjoon.S4.탐욕;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException {
+public class 삼각형만들기1448 {
+/*
+public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
@@ -24,27 +24,5 @@ public class Main {
 		if(i != 1) System.out.println(arr[i] + arr[i-1] + arr[i-2]);
 		else System.out.println(-1);
 	}
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
