@@ -1,13 +1,13 @@
-package baekjoon;
+package baekjoon.S2.탐욕;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException {
+public class 주식11501 {
+/*
+public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
@@ -35,27 +35,5 @@ public class Main {
 		System.out.println(sb);
 		
 	}
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
