@@ -1,12 +1,12 @@
-package baekjoon;
+package baekjoon.S2.탐욕;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException {
+public class 우리집엔도서관이있어2872 {
+/*
+public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
@@ -27,27 +27,5 @@ public class Main {
 			
 		System.out.println(answer);
 	}
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
