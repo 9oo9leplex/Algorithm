@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.S2.탐욕;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,9 +8,9 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
-
-	public static void main(String[] args) throws IOException {
+public class 잃어버린괄호1541 {
+/*
+public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
@@ -59,27 +59,5 @@ public class Main {
 		
 		System.out.println(answer);
 	}
+ */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
